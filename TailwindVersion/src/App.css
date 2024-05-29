@@ -1,0 +1,18 @@
+body{
+  background-color: #282c34;
+}
+
+.App-header {
+
+  font-size: calc(10px + 2vmin);
+}
+
+.tailwindlogo {
+  background-image: url("../images/tailwind.png");
+  background-size: cover;
+}
+
+.jsslogo {
+  background-image: url("../images/jss.png");
+  background-size: cover;
+}
